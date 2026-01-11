@@ -147,7 +147,7 @@ The repository contains the following files:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/raghad-murad/ImageClassifierProject.git
+   git clone https://github.com/lameesbassam05/Image-Classifier-TensorFlow.git
    ```
 
 2. **Navigate to the Directory**
